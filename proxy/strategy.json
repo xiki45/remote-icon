@@ -1,0 +1,18 @@
+{
+"name":"strategy icon", 
+"description":"via eyniv", 
+"icons":
+    [
+        {"name":"tg", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/tg.png"},
+        {"name":"openai", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/openai.png"},
+        {"name":"speed", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/speedtest.png"},
+        {"name":"bilibili", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/bilibili.png"},
+        {"name":"ins", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/ins.png"},
+        {"name":"google", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/google.png"},
+        {"name":"sp", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/sp.png"},
+        {"name":"onedrive", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/onedrive.png"},
+        {"name":"youtube", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/youtube.png"}
+       
+        
+    ]
+}
