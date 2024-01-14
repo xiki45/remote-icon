@@ -3,9 +3,7 @@
 "description":"via eyniv", 
 "icons":
     [
-        {"name":"Tg2", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/blob/main/proxy/Tg2.png"},
-        {"name":"1", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/blob/main/proxy/1.png"},
-        {"name":"2", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/blob/main/proxy/2.png"},
-        {"name":"3", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/blob/main/proxy/3.png"}
+        {"name":"tg", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/1.png"},
+        {"name":"tg2", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/2.png"}
     ]
 }
