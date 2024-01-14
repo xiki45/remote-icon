@@ -4,6 +4,11 @@
 "icons":
     [
         {"name":"tg", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/1.png"},
-        {"name":"tg2", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/2.png"}
+        {"name":"tg2", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/2.png"},
+        {"name":"tg2", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/Tg.png"},
+        {"name":"tg2", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/Tg2.png"},
+        {"name":"tg2", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/3.png"},
+        {"name":"tg2", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/Chatgpt.png"}
+        
     ]
 }
