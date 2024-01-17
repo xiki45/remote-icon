@@ -12,9 +12,9 @@
         {"name":"sp", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/sp.png"},
         {"name":"onedrive", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/onedrive.png"},
         {"name":"youtube", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/youtube.png"},
-        {"name":"youtube", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/1111.png"},
-        {"name":"youtube", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/gv.png"},
-        {"name":"youtube", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/wg.png"}
+        {"name":"1111", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/1111.png"},
+        {"name":"gv", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/gv.png"},
+        {"name":"wg", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/proxy/strategy/wg.png"}
        
         
     ]
