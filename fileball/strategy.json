@@ -1,0 +1,11 @@
+{
+"name":"strategy icon", 
+"description":"via eyniv", 
+"icons":
+    [
+        {"name":"123", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/fileball/strategy/123.png"},
+        {"name":"123_512", "url":"https://raw.githubusercontent.com/xiki45/remote-icon/main/fileball/strategy/123_512.png"}
+       
+        
+    ]
+}
